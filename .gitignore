@@ -1,0 +1,5 @@
+# Data Directory
+datadir/
+
+# Python Virtual Environment
+venv/
