@@ -3,3 +3,6 @@ datadir/
 
 # Python Virtual Environment
 venv/
+
+# Erigon Node
+erigon/
